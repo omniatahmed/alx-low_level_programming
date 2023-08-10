@@ -8,7 +8,7 @@
  */
 int main(void)
 {
-        puts("\"programming is like building a multilingual puzzle
-");
+        print("with proper grammar, but the outcome is a pice of art,\n");
         return (0);
 }
+
